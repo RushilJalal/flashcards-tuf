@@ -1,4 +1,4 @@
-/* General Styles */
+
 .App {
   text-align: center;
   font-family: 'Roboto', Arial, sans-serif;
@@ -7,14 +7,13 @@
   padding: 20px;
 }
 
-/* Flashcard Viewer */
+
 .flashcard-viewer {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-/* Flashcard Styles */
 .flashcard {
   width: 320px;
   height: 220px;
@@ -61,7 +60,7 @@
   box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
 }
 
-/* Navigation Styles */
+
 .navigation {
   margin-top: 30px;
 }
@@ -82,7 +81,7 @@
   background-color: #2980b9;
 }
 
-/* Admin Dashboard */
+
 .admin-dashboard {
   max-width: 600px;
   margin: 40px auto;
